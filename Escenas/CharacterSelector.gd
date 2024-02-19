@@ -82,3 +82,5 @@ func _input(event):
 		if (event.is_action_pressed("ui_accept")):
 			print("yasta")
 			get_tree().change_scene("res://Escenas/inGame.tscn")
+	
+	
