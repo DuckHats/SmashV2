@@ -12,7 +12,7 @@ _global_script_classes=[ {
 "base": "KinematicBody2D",
 "class": "Player",
 "language": "GDScript",
-"path": "res://Escenas/KinematicBody2D.gd"
+"path": "res://Projecte-GameDesign/Personatges/Vladi/content/Vladi.gd"
 } ]
 _global_script_class_icons={
 "Player": ""
